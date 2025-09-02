@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/salmans1991/salmans-accs/
+    type: markup
+
+folders:
+  /products/: /products/default
